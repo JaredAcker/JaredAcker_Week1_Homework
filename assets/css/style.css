@@ -58,7 +58,7 @@ p {
 
 #hero img {
     width: 100vw;
-    clip-path: polygon(0% 0%, 100% 0%, 100% 64%, 0% 64%);
+    height: 100%;
 }
 
 .float-left {
